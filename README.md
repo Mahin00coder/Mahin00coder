@@ -3,7 +3,7 @@
 <h3 align="center">Learning & Building with Code</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahin00coder&label=Profile%20views&color=0e75b6&style=flat" alt="mahin00coder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahin00coder&theme=" alt="mahin00coder" /></a> </p>
+
 
 - 👯 I’m looking to collaborate on **Github**
 - 🌱 I’m currently learning **Python**
