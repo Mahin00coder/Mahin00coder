@@ -2,7 +2,7 @@
 <h3 align="center">💻 Python & Full Stack Web Development Learner from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://tenor.com/view/bruce-almighty-comedy-jim-carrey-angry-typing-gif-3465977" width="100%" height="300"alt="Coding Banner">
+  <img src="C:\Users\Mahin\Downloads\tenor.gif" width="100%" height="300"alt="Coding Banner">
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
