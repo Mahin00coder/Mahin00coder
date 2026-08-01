@@ -2,7 +2,7 @@
 <h3 align="center">💻 Python & Full Stack Web Development Learner from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="100%" alt="Coding Banner">
+ 
 </p>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
