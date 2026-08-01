@@ -3,9 +3,8 @@
 <h3 align="center">Python & Web Development Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahin00coder&label=Profile%20views&color=0e75b6&style=flat" alt="mahin00coder" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="mahin00coder" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
