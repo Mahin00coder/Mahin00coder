@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Walid Hasan Mahin</h1>
 <h3 align="center">Python & Web Development Learner</h3>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" /> </p>
+<p align="right" width="100"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" /> </p>
 
  
 - 🌱 I’m currently learning **Python**
