@@ -1,3 +1,4 @@
+![Profile Banner](./profile-banner.png)
 # 👋 I'M MAHIN!
 
 ### 💻 Aspiring Web Developer | Python Learner | Tech Enthusiast
