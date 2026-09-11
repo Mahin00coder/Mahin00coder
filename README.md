@@ -1,73 +1,42 @@
-<h1 align="center">Hi 👋, I'm Walid Hasan Mahin</h1>
-<h3 align="center">💻 Python & Full Stack Web Development Learner from Bangladesh 🇧🇩</h3>
+# 👋 I'M MAHIN!
 
-<p align="center">
-  <img src="C:\Users\Mahin\Downloads\tenor.gif" width="100%"alt="Coding Banner">
-</p>
+### 💻 Aspiring Web Developer | Python Learner | Tech Enthusiast
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+I’m a passionate learner who loves building websites, learning programming, and exploring new technologies.
 
-## 👨‍💻 About Me
+### 🚀 About Me
 
-- 🌱 I’m currently learning **Python & Full Stack Web Development**
-- 🎯 My goal is to become a **Full Stack Web Developer**
-- 💬 Ask me about **Python, HTML, CSS, Git & GitHub**
-- 📫 Reach me at **mahin32274@gmail.com**
-- ⚡ Fun fact: **I love learning new technologies and solving problems.**
+- 🎓 Student & aspiring developer
+- 🌱 Currently learning Web Development & Python
+- 💻 Interested in building clean and responsive websites
+- 🧠 Always learning something new
+- 🔧 Love solving problems through code
+- 🚀 Working towards becoming a professional developer
 
----
-
-## 🌐 Connect with Me
+### 🛠️ Skills & Tools
 
 <p align="left">
-<a href="https://discord.gg/mahin012">
-<img src="https://skillicons.dev/icons?i=discord" height="45"/>
-</a>
-<a href="mailto:mahin32274@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=html,css,python,c,git,github,vscode" />
 </p>
+
+### 📚 Currently Learning
+
+- 🌐 Web Development
+- 🐍 Python Programming
+- 💻 Programming Fundamentals
+- 🔀 Git & GitHub
+- 🎨 Responsive Web Design
+
+### 🎯 My Goal
+
+> To become a skilled and professional developer by continuously learning, building projects, and improving every day.
+
+### 📫 Connect With Me
+
+- 🌐 Portfolio: Coming Soon
+- 📧 Email: Your Email
+- 💻 GitHub: @mahin012
 
 ---
 
-## 🚀 Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,html,css,python,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mahin00coder&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahin00coder&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin00coder&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mahin00coder&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-## 📈 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=mahin00coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
----
-
-<p align="center">
-✨ <b>Thanks for visiting my profile!</b><br>
-⭐ Don't forget to follow me and check out my repositories.
-</p>
+⭐ **Thanks for visiting my profile!**
