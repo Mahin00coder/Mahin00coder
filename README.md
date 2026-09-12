@@ -35,8 +35,8 @@ I’m a passionate learner who loves building websites, learning programming, an
 ### 📫 Connect With Me
 
 - 🌐 Portfolio: Coming Soon
-- 📧 Email: Your Email
-- 💻 GitHub: @mahin012
+- 📧 Email: mahin32274@gmail.com
+- 💻 GitHub: Mahin00coder
 
 ---
 
